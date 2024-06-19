@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(230, 201, 190);
+    color: rgb(32, 9, 9);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.3em;
+    margin: 0%;
+}
+.container{
+    width: 200px;
+}
